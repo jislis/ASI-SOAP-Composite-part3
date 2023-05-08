@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://webservice/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <web:validation>
+            <desc>blablabla CHE-214.686.752 blablabla</desc>
+        </web:validation>
+    </soapenv:Body>
+</soapenv:Envelope>
